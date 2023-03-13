@@ -1,2 +1,2 @@
-# netology-react-props1
+# react-props1
 Film rating
